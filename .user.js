@@ -2,7 +2,7 @@
 // @name         YouTube - Force Ugly Watch Sidebar Width
 // @namespace    http://tampermonkey.net/
 // @version      1.1
-// @description  Forces --ytd-watch-flexy-sidebar-width to 500px on watch pages (overrides auto-expand on scroll etc.)
+// @description  Forces --ytd-watch-flexy-sidebar-width to 450px on watch pages (overrides auto-expand on scroll etc.)
 // @author       Shirorin/ShimamuX
 // @match        https://www.youtube.com/watch*
 // @grant        none
